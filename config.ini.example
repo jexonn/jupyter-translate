@@ -1,0 +1,8 @@
+[OpenAI]
+api_key = sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+base_url = https://api.example.com/v1/
+model_name = gpt-4o
+
+[AlibabaCloud]
+access_key_id = xxxxxxxxxxxxxxxxxxxxxxxxx
+access_key_secret = xxxxxxxxxxxxxxxxxxxxxxxxx

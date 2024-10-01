@@ -1,0 +1,4 @@
+alibabacloud-alimt20181012
+alibabacloud-tea-openapi
+alibabacloud-tea-util
+openai
