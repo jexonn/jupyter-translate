@@ -16,7 +16,7 @@
 1. 克隆此仓库:
 
 ```bash
-git clone https://github.com/s1mcode/jupyter-translate.git
+git clone https://github.com/jexonn/jupyter-translate.git
 cd jupyter-translate
 ```
 
